@@ -43,13 +43,12 @@ Example JSON for POST/PUT
   "status": "active"
 }
 ```
-Future Improvements
+## Future Improvements
 
 - Add Swagger/OpenAPI documentation
 - Implement pagination
 - Connect to a persistent database like PostgreSQL 
 - Add user authentication and authorization
 
-Author 
-
+## Author
 Daniel Moshood
