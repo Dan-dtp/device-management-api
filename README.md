@@ -20,8 +20,8 @@ A Java 17 Spring Boot REST API that manages IoT-style devices, supporting full C
 ### Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/device-api.git
-cd device-api
+git clone git@github.com:YOUR_USERNAME/device-management-api.git
+cd device-management-api
 ./mvnw spring-boot:run
 
 
