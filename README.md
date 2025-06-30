@@ -24,6 +24,7 @@ git clone https://github.com/YOUR_USERNAME/device-api.git
 cd device-api
 ./mvnw spring-boot:run
 
+
 Visit: http://localhost:8080/devices to view devices.
 
 API Endpoints
@@ -47,3 +48,14 @@ Example JSON for POST/PUT
   "type": "Temperature",
   "status": "active"
 }
+```
+Future Improvements
+
+- Add Swagger/OpenAPI documentation
+- Implement pagination
+- Connect to a persistent database like PostgreSQL 
+- Add user authentication and authorization
+
+Author 
+
+Daniel Moshood
