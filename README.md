@@ -36,12 +36,6 @@ PUT	/devices/{id}	Update a device
 DELETE	/devices/{id}	Delete a device
 GET	/devices/search?status=	Filter devices by status
 
-{
-  "name": "Smart Sensor",
-  "type": "Temperature",
-  "status": "active"
-}
-
 Example JSON for POST/PUT
 {
   "name": "Smart Sensor",
